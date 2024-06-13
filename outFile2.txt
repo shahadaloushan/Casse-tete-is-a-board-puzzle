@@ -1,0 +1,5 @@
+Row 0: Feasible Solution
+ Row 1: Feasible Solution
+ Row 2: Feasible Solution
+ Row 3: No Feasible Solution
+RESULT: No Feasible Solution

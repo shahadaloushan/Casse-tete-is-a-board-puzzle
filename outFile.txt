@@ -1,0 +1,7 @@
+Row 0: Feasible Solution
+ Row 1: Feasible Solution
+ Row 2: Feasible Solution
+ Column 0: Feasible Solution
+ Column 1: Feasible Solution
+ Column 2: Feasible Solution
+ RESULT: Feasible Solution
